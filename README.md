@@ -1,6 +1,5 @@
-<a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/images/logo.png" align="left" width="325" height="97"></a><br>
-
 # Producers to upload the observe measurements and consumers <br>
+<a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/images/logo.png" align="left" width="325" height="97"></a><br>
 
 ## Apache Kafka Quick Start 
 
@@ -47,5 +46,5 @@ bigdataroom .**<br>
 
 ## Kafka example producer 
 
-**.	Open a terminal and go to the folder: $ cd kafka_2.12-2.2.0
-**.	$ bin/kafka-console-producer.sh --broker-list localhost:9092 --topic bigdataroom
+**.	Open a terminal and go to the folder: $ cd kafka_2.12-2.2.0 .**<br>
+**.	$ bin/kafka-console-producer.sh --broker-list localhost:9092 --topic bigdataroom .**<br>
