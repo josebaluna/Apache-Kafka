@@ -1,4 +1,4 @@
-<a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/images/logo.png" align="left" hspace="10" vspace="10"></a>
+<a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/images/logo.png" align="left"></a>
 
 # Producers to upload the observe measurements and consumers
 
