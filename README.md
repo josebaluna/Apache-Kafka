@@ -1,7 +1,6 @@
-# Apache Kafka
-Producers to upload the observe measurements and consumers
+<a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/images/logo.png" align="left" hspace="10" vspace="10"></a>
 
-
+# Producers to upload the observe measurements and consumers
 
 Apache Kafka Quick Start
 
