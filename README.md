@@ -1,7 +1,8 @@
-# Producers to upload the observe measurements and consumers #<br>
-<a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/images/logo.png" align="left" width="325" height="97"></a><br>
+<a href="https://kafka.apache.org/"><img src="https://kafka.apache.org/images/logo.png" width="325" height="97"></a><br>
 
-## Apache Kafka Quick Start ##<br>
+# Producers to upload the observe measurements and consumers <br>
+
+## Apache Kafka Quick Start <br>
 
 **.	Download lasted binary reléase: https://kafka.apache.org/downloads.**<br>
 **.	Extract: Unix: $ tar -xzf kafka_2.12-2.2.0.tgz.**<br>
